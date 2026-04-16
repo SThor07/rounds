@@ -6,6 +6,18 @@ Rounds is an ambient AI scribe that listens to doctor-patient consultations and 
 
 
 ---
+## Screenshots
+ 
+### Home — start a consultation
+![Home Screen](./screenshot0.png)
+ 
+### Output — generated SOAP note
+![SOAP Note Output](./screenshot1.png)
+ 
+### Export — generated PDF
+![PDF Export](./screenshot2.png)
+ 
+---
 
 ## The Problem
 
