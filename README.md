@@ -4,7 +4,6 @@
 
 Rounds is an ambient AI scribe that listens to doctor-patient consultations and automatically generates complete, structured clinical notes — running entirely on your local machine. No cloud. No subscription. No patient data leaving your device.
 
-![Rounds UI](./screenshot.png)
 
 ---
 
